@@ -19,3 +19,12 @@ p{
 h4{
     color: white;
 }
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.etherium{
+    color:hsl(178, 100%, 50%);
+}
