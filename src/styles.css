@@ -3,12 +3,14 @@ padding: 0;
 margin: 0;
 }
 .box{
-    border: solid 2px green;
+    border: solid 2px darkblue;
     margin: auto;
     position: relative;
     text-align: center;
     top: 50%;
     width: 50%;
+    padding: 20px;
+    border-radius: 25px;
 
 }
 body{
@@ -26,4 +28,17 @@ h4{
 
 .etherium{
     color:hsl(178, 100%, 50%);
+}
+.left-side-div{
+    position: relative;
+float: left;
+}
+.right-side-div{
+    position: relative;
+    float: right;
+
+}
+.center-div{
+    position: relative;
+    float: center;
 }
