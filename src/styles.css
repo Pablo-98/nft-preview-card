@@ -3,9 +3,13 @@ padding: 0;
 margin: 0;
 }
 .box{
-    padding: 10px;
-    height: fit-content;
-    border: solid 1px green
+    border: solid 2px green;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    top: 50%;
+    width: 50%;
+
 }
 body{
     background-color: hsl(217, 54%, 11%)
@@ -14,17 +18,12 @@ h2{
     color: white;
 }
 p{
-    color: rgb(46, 42, 42)
+    color: rgb(131, 111, 111)
 }
 h4{
     color: white;
 }
-.center{
-    text-align: center;
-}
-.right{
-    text-align: right;
-}
+
 .etherium{
     color:hsl(178, 100%, 50%);
 }
